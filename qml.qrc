@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pages/ambientalControllers.qml</file>
+        <file>pages/ambientalStatus.qml</file>
+        <file>pages/ScrollablePage.qml</file>
+        <file>graphicspages/SwipeViewPage.qml</file>
+        <file>dbControl.js</file>
+        <file>graphicspages/dbToChart.js</file>
+        <file>graphicspages/Charts.qml</file>
+    </qresource>
+</RCC>
